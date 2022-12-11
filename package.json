@@ -41,7 +41,7 @@
     "zone.js": "~0.8.29",
     "body-parser": "1.18.3",
     "cors": "2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "method-override": "2.3.10",
     "mongoose": "^5.6.5",
     "morgan": "^1.9.1",
